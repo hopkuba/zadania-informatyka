@@ -6,7 +6,6 @@
 using namespace std;
 
 int main(){
-    
     cout<<"Program obliczajacy pierwiastek liczb podzielnych przez 3 i 5\n\n";
 
     //definicja zmiennej przechowujacej liczby calkowite a
