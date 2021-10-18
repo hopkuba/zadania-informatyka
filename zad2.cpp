@@ -5,7 +5,6 @@
 using namespace std;
 
 int main(){
-
     cout<<"Program znajdujacy najmniejsza podana wartosc\n\n";
 
     //definicja trzyelementowej tablicy liczb calkowitych
